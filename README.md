@@ -1,5 +1,7 @@
 # 2stager-poc
-This is a PoC for a 2 staged payload\n
-The main payload is stored in payload.dll\n
-Payload gets ran by stager.exe\n
-This has a lower detection rate
+
+This is a proof of concept (PoC) for a two-staged payload.
+
+- The main payload is stored in `payload.dll`.
+- The payload is executed by `stager.exe`.
+- This approach aims to have a lower detection rate.
